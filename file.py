@@ -1,2 +1,2 @@
 print("hello benny")
-print(kkd)
+print("kkd")
