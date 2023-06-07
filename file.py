@@ -1,2 +1,3 @@
-print("hello benny")
-print("kkd")
+print("jeee")
+print("loveall")
+print("hello broooo")
